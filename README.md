@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 [![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansourabh9155&show_icons=true&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumansourabh9155&layout=compact&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumansourabh9155)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumansourabh9155&show_icons=true&theme=radical)  
 
 
