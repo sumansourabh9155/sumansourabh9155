@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumansourabh9155)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumansourabh9155)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumansourabh9155&show_icons=true&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumansourabh9155&repo=Navbar)](https://github.com/sumansourabh9155/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumansourabh9155&repo=guess-the-number-game-)](https://github.com/sumansourabh9155/github-readme-stats)
