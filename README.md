@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansourabh9155&show_icons=true&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumansourabh9155&layout=compact&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumansourabh9155&repo=Navbar)](https://github.com/sumansourabh9155/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumansourabh9155&repo=guess-the-number-game-)](https://github.com/sumansourabh9155/github-readme-stats)
+
+[![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansourabh9155&show_icons=true&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumansourabh9155&layout=compact&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
