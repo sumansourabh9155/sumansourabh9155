@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumansourabh9155)  
 
-[![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansourabh9155&show_icons=true&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumansourabh9155&show_icons=true&theme=radical)  
+[![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansourabh9155&show_icons=true&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumansourabh9155&show_icons=true&theme=radical)  
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sumansourabh9155&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
