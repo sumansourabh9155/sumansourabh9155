@@ -41,23 +41,18 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sumansourabh9155&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumansourabh9155&layout=compact&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
- 
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumansourabh9155&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumansourabh9155&layout=compact&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
-
-<br>
 <hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumansourabh9155&layout=compact&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
+
+ 
 <hr>
 <h3 align="left">Graphs:</h3>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumansourabh9155&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)  
-<br>
-<br>
+
+
+
+<hr>
 ###Total Commits and Streak:
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sumansourabh9155&show_icons=true&theme=radical" />
