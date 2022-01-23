@@ -44,10 +44,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img width="100%" srchttps://activity-graph.herokuapp.com/graph?username=sumansourabh9155&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  
 </p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumansourabh9155&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)  
 
 
 <hr>
