@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://icons8.com/icon/NfbyHexzVEDk/react" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="reactjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <a href="https://img.icons8.com/cute-clipart/64/000000/canva.png" target="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/canva.png" alt="nodejs" width="40" height="40"/> </a> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://icons8.com/icon/13679/java" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/> </a>
  <a href="https://icons8.com/icon/108784/javascript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JS" width="40" height="40"/></a>
-<br>
-<hr>
 <hr>
 <h3 align="left">Trophies:</h3>
  
@@ -46,7 +44,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumansourabh9155&layout=compact&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
 
  
-
+<hr>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumansourabh9155&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)  
 
 
