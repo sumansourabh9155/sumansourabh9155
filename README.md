@@ -41,9 +41,15 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumansourabh9155&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)  
 
-[![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansourabh9155&show_icons=true&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumansourabh9155&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansourabh9155&show_icons=true&theme=radical" />
+</p>
+ 
+<!--
+ [![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansourabh9155&show_icons=true&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumansourabh9155&show_icons=true&theme=radical)  
-
+-->
 
 
 
