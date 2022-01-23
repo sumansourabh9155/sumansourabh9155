@@ -54,10 +54,11 @@ Here are some ideas to get you started:
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansourabh9155&show_icons=true&theme=radical" />
 </p>
  
-
- [![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumansourabh9155&show_icons=true&theme=radical)](https://github.com/sumansourabh9155/github-readme-stats)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumansourabh9155&show_icons=true&theme=radical)  
-
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=sumansourabh9155&repo=guess-the-number-game-&show_icons=true&theme=dark" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=sumansourabh9155&repo=Navbar&show_icons=true&theme=dark" />
+</p>
+ 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumansourabh9155&repo=guess-the-number-game-&show_icons=true&theme=dark)](https://github.com/sumansourabh9155/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumansourabh9155&repo=Navbar&show_icons=true&theme=dark)](https://github.com/sumansourabh9155/github-readme-stats)
 
